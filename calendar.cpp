@@ -1,3 +1,6 @@
+/*
+A program to generate the calendar for a given year
+*/
 #include <iostream>
 #include <iomanip>
 
